@@ -1,0 +1,502 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "options": [
+      "Mumbai",
+      "New Delhi",
+      "Kolkata",
+      "Chennai"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "question": "Which language is mainly used for Data Science?",
+    "options": [
+      "Python",
+      "HTML",
+      "CSS",
+      "PHP"
+    ],
+    "answer": "Python"
+  },
+  {
+    "question": "What is the result of 5 + 7?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Venus"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "question": "Which data structure uses square brackets in Python?",
+    "options": [
+      "Tuple",
+      "Set",
+      "List",
+      "Dictionary"
+    ],
+    "answer": "List"
+  },
+  {
+    "question": "Who developed Python language?",
+    "options": [
+      "Dennis Ritchie",
+      "Guido van Rossum",
+      "James Gosling",
+      "Bjarne Stroustrup"
+    ],
+    "answer": "Guido van Rossum"
+  },
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "options": [
+      "func",
+      "define",
+      "def",
+      "function"
+    ],
+    "answer": "def"
+  },
+  {
+    "question": "Which symbol is used for comments in Python?",
+    "options": [
+      "//",
+      "#",
+      "/* */",
+      "--"
+    ],
+    "answer": "#"
+  },
+  {
+    "question": "What is the output of 3 * 3?",
+    "options": [
+      "6",
+      "9",
+      "12",
+      "3"
+    ],
+    "answer": "9"
+  },
+  {
+    "question": "Which of the following is a Python loop?",
+    "options": [
+      "repeat",
+      "foreach",
+      "for",
+      "iterate"
+    ],
+    "answer": "for"
+  },
+  {
+    "question": "Which company developed the Windows operating system?",
+    "options": [
+      "Apple",
+      "Google",
+      "Microsoft",
+      "IBM"
+    ],
+    "answer": "Microsoft"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Processor Utility"
+    ],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Which keyword is used for conditional statements in Python?",
+    "options": [
+      "if",
+      "when",
+      "case",
+      "switch"
+    ],
+    "answer": "if"
+  },
+  {
+    "question": "What is the extension of a Python file?",
+    "options": [
+      ".pt",
+      ".python",
+      ".py",
+      ".p"
+    ],
+    "answer": ".py"
+  },
+  {
+    "question": "Which operator is used for exponent in Python?",
+    "options": [
+      "^",
+      "**",
+      "*",
+      "%"
+    ],
+    "answer": "**"
+  },
+  {
+    "question": "Which data type stores True or False?",
+    "options": [
+      "int",
+      "str",
+      "bool",
+      "float"
+    ],
+    "answer": "bool"
+  },
+  {
+    "question": "Which function is used to display output in Python?",
+    "options": [
+      "echo()",
+      "display()",
+      "print()",
+      "show()"
+    ],
+    "answer": "print()"
+  },
+  {
+    "question": "Which keyword is used to create a class in Python?",
+    "options": [
+      "define",
+      "class",
+      "object",
+      "struct"
+    ],
+    "answer": "class"
+  },
+  {
+    "question": "Which of the following is not a programming language?",
+    "options": [
+      "Python",
+      "Java",
+      "HTML",
+      "C++"
+    ],
+    "answer": "HTML"
+  },
+  {
+    "question": "Which symbol is used for division in Python?",
+    "options": [
+      "%",
+      "/",
+      "//",
+      "*"
+    ],
+    "answer": "/"
+  },
+  {
+    "question": "Which method converts string to lowercase?",
+    "options": [
+      "lower()",
+      "down()",
+      "small()",
+      "case()"
+    ],
+    "answer": "lower()"
+  },
+  {
+    "question": "Which method converts string to uppercase?",
+    "options": [
+      "upper()",
+      "big()",
+      "cap()",
+      "upcase()"
+    ],
+    "answer": "upper()"
+  },
+  {
+    "question": "What is the result of 10 - 4?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "question": "Which keyword is used to stop a loop?",
+    "options": [
+      "exit",
+      "stop",
+      "break",
+      "end"
+    ],
+    "answer": "break"
+  },
+  {
+    "question": "Which keyword skips one iteration in loop?",
+    "options": [
+      "skip",
+      "continue",
+      "pass",
+      "next"
+    ],
+    "answer": "continue"
+  },
+  {
+    "question": "Which data type stores decimal numbers?",
+    "options": [
+      "int",
+      "float",
+      "bool",
+      "str"
+    ],
+    "answer": "float"
+  },
+  {
+    "question": "Which function gives the length of a list?",
+    "options": [
+      "count()",
+      "size()",
+      "len()",
+      "length()"
+    ],
+    "answer": "len()"
+  },
+  {
+    "question": "Which keyword is used to import a module?",
+    "options": [
+      "include",
+      "using",
+      "import",
+      "require"
+    ],
+    "answer": "import"
+  },
+  {
+    "question": "Which function takes user input in Python?",
+    "options": [
+      "scan()",
+      "input()",
+      "get()",
+      "read()"
+    ],
+    "answer": "input()"
+  },
+  {
+    "question": "Which operator is used for equality check?",
+    "options": [
+      "=",
+      "==",
+      "!=",
+      " >="
+    ],
+    "answer": "=="
+  },
+  {
+    "question": "Which structure stores key-value pairs?",
+    "options": [
+      "List",
+      "Tuple",
+      "Dictionary",
+      "Set"
+    ],
+    "answer": "Dictionary"
+  },
+  {
+    "question": "Which keyword is used for exception handling?",
+    "options": [
+      "try",
+      "catch",
+      "error",
+      "handle"
+    ],
+    "answer": "try"
+  },
+  {
+    "question": "Which block handles exceptions?",
+    "options": [
+      "handle",
+      "except",
+      "error",
+      "solve"
+    ],
+    "answer": "except"
+  },
+  {
+    "question": "Which loop runs while condition is true?",
+    "options": [
+      "for",
+      "while",
+      "loop",
+      "repeat"
+    ],
+    "answer": "while"
+  },
+  {
+    "question": "Which method adds item to list?",
+    "options": [
+      "add()",
+      "append()",
+      "insert()",
+      "push()"
+    ],
+    "answer": "append()"
+  },
+  {
+    "question": "Which method removes item from list?",
+    "options": [
+      "delete()",
+      "remove()",
+      "cut()",
+      "erase()"
+    ],
+    "answer": "remove()"
+  },
+  {
+    "question": "Which function converts string to integer?",
+    "options": [
+      "str()",
+      "int()",
+      "float()",
+      "num()"
+    ],
+    "answer": "int()"
+  },
+  {
+    "question": "Which function converts number to string?",
+    "options": [
+      "str()",
+      "text()",
+      "string()",
+      "char()"
+    ],
+    "answer": "str()"
+  },
+  {
+    "question": "Which data type is immutable?",
+    "options": [
+      "List",
+      "Dictionary",
+      "Set",
+      "Tuple"
+    ],
+    "answer": "Tuple"
+  },
+  {
+    "question": "Which collection stores unique values?",
+    "options": [
+      "List",
+      "Tuple",
+      "Set",
+      "Array"
+    ],
+    "answer": "Set"
+  },
+  {
+    "question": "Which operator gives remainder?",
+    "options": [
+      "/",
+      "%",
+      "*",
+      "//"
+    ],
+    "answer": "%"
+  },
+  {
+    "question": "Which library is used for data analysis in Python?",
+    "options": [
+      "NumPy",
+      "Pandas",
+      "Matplotlib",
+      "Seaborn"
+    ],
+    "answer": "Pandas"
+  },
+  {
+    "question": "Which library is used for numerical computing?",
+    "options": [
+      "NumPy",
+      "Flask",
+      "Django",
+      "Tkinter"
+    ],
+    "answer": "NumPy"
+  },
+  {
+    "question": "Which library is used for plotting graphs?",
+    "options": [
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "TensorFlow"
+    ],
+    "answer": "Matplotlib"
+  },
+  {
+    "question": "Which keyword is used to define anonymous function?",
+    "options": [
+      "lambda",
+      "anon",
+      "func",
+      "def"
+    ],
+    "answer": "lambda"
+  },
+  {
+    "question": "Which keyword returns value from function?",
+    "options": [
+      "give",
+      "send",
+      "return",
+      "output"
+    ],
+    "answer": "return"
+  },
+  {
+    "question": "Which function rounds a number?",
+    "options": [
+      "round()",
+      "ceil()",
+      "floor()",
+      "fix()"
+    ],
+    "answer": "round()"
+  },
+  {
+    "question": "Which keyword defines inheritance?",
+    "options": [
+      "extend",
+      "inherit",
+      "super",
+      "class"
+    ],
+    "answer": "class"
+  },
+  {
+    "question": "Which loop is best for iterating over list?",
+    "options": [
+      "while",
+      "for",
+      "repeat",
+      "loop"
+    ],
+    "answer": "for"
+  },
+  {
+    "question": "Which operator is used for logical AND?",
+    "options": [
+      "&&",
+      "and",
+      "&",
+      "AND"
+    ],
+    "answer": "and"
+  }
+]
